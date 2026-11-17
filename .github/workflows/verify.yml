@@ -18,3 +18,4 @@ jobs:
         with:
           name: krigsvold-vim
           path: dist/
+          retention-days: 7
